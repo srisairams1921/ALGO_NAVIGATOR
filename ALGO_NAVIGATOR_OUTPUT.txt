@@ -1,0 +1,103 @@
+WELCOME TO OUR SITE 
+======================
+THE CHOICES ARE :  
+1. SIGN-UP
+2. LOGIN IN
+3. FORGOT CREDENTIALS
+4. EXIT
+ENTER YOUR CHOICE :1
+==============================================
+			SIGN UP
+==============================================
+CREATE YOUR ID : 1237
+THE ID HAS BEEN CREATED !!
+
+ENTER YOUR  MOBILE NO : 8838608789
+THE CONTACT IS SAVED !!
+
+CREATE YOUR PASSWORD : sai@19
+THE PASSWORD HAS BEEN CREATED !!
+
+			 WELCOME !!
+=================================================
+WELCOME TO OUR SITE 
+======================
+THE CHOICES ARE :  
+1. SIGN-UP
+2. LOGIN IN
+3. FORGOT CREDENTIALS
+4. EXIT
+ENTER YOUR CHOICE :2
+==============================================
+			LOGIN
+==============================================
+ENTER YOUR ID : 1237
+THE ID IS CORRECT !!
+
+ENTER YOUR PASSWORD : sai@19
+
+THE PASSWORD IS CORRECT !!
+			 WELCOME BACK !!
+=================================================
+WHICH PART DO YOU WANT ?
+1. ARRAY PROGRAMMING
+2. STRING PROGRAMMING
+ENTER YOUR CHOICE : 1
+============ ARRAY PROGRAMMING ============
+THE ARRAY PROGRAMS ARE : 
+1. REVERSE AN ARRAY
+2. REMOVE DUPLICATES
+3. SHIFT ALL 1's TO ONE END
+4. ARRAY ROTATION
+5. NTH LARGEST
+6. COUNT TOTAL PRIME
+7. SUB-ARRAY ENUMERATION
+8. EXIT
+ENTER YOUR CHOICE : 7
+Enter the array size : 5
+Enter the elements : 2
+4
+6
+8
+10
+ALL POSSIBLE SUBARRAYS : 
+==============================================
+2 24 246 2468 246810 
+4 46 468 46810 
+6 68 6810 
+8 810 
+10 
+==============================================
+
+DO YOU WANT TO SEE THE PROGRAM FOR REFERENCE?
+1. YES
+2. NO
+1
+SUBARRAY  PROGRAM
+===============================================================
+for (int i = 0; i < a.length; i++) {
+    String num = "";
+    for (int j = i; j < a.length; j++) {
+        num = num + a[j];
+        System.out.print(num + " ");
+    }
+    System.out.println();
+}
+===============================================================
+WELCOME TO OUR SITE 
+======================
+THE CHOICES ARE :  
+1. SIGN-UP
+2. LOGIN IN
+3. FORGOT CREDENTIALS
+4. EXIT
+ENTER YOUR CHOICE :4
+EXIT SUCCESSFULLY !
+=======================
+THANKS FOR USING US 🤗🤗🤗
+/*
+ * © 2025 SRI SAI RAM S. All rights reserved.
+ *
+ * This code is licensed for personal and educational use only.
+ * Unauthorized copying, modification, or distribution is prohibited.
+ */
